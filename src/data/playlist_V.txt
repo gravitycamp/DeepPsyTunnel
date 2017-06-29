@@ -1,0 +1,16 @@
+50,Balls,Blobs
+15,AudioInputKinect
+50,IsoLinesFull
+50,Field
+50,NoiseField
+50,Balls,Circle,TextScroll
+150,SinusPlasma,Circle,SinusPlasma
+50,Blobs,Bounce,Gravity
+50,Circle,Circle
+50,Gravity
+50,Letters,Circle
+50,Life
+50,Perlin
+50,Tangle
+50,Tree
+50,WhiteRain
